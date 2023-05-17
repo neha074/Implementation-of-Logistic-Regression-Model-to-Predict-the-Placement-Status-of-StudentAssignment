@@ -25,8 +25,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
 ~~~
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Neha.MA
-RegisterNumber: 212220040100
+Developed by: V Jaivignesh
+RegisterNumber: 212220040055
 
 
 import pandas as pd
@@ -102,17 +102,64 @@ print(lr.predict([prediction]))
 
 ~~~~
 ## Output:
+1.Placement data
+<img width="1012" alt="Screenshot 2023-05-17 at 2 14 21 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/10605748-e593-488f-a0ab-79607fb3e659">
 
-<img width="1222" alt="Screenshot 2023-05-08 at 3 19 56 PM" src="https://user-images.githubusercontent.com/71516398/236794583-634639d4-b156-448f-bd85-b2c541ade2da.png">
-<img width="1222" alt="Screenshot 2023-05-08 at 3 20 01 PM" src="https://user-images.githubusercontent.com/71516398/236794592-82e0b7a4-4f2e-41a3-9a37-6b695d69dc28.png">
-<img width="475" alt="Screenshot 2023-05-08 at 3 20 10 PM" src="https://user-images.githubusercontent.com/71516398/236794601-152c7167-6f01-445f-9cc0-b7d447306aec.png">
-<img width="864" alt="Screenshot 2023-05-08 at 3 20 30 PM" src="https://user-images.githubusercontent.com/71516398/236794604-77b04630-3999-4d9c-87ed-b9d56247f8b3.png">
-<img width="823" alt="Screenshot 2023-05-08 at 3 20 49 PM" src="https://user-images.githubusercontent.com/71516398/236794611-279bfd50-dbb5-42f9-94ac-5c8342819da3.png">
-<img width="850" alt="Screenshot 2023-05-08 at 3 21 03 PM" src="https://user-images.githubusercontent.com/71516398/236794614-91f39546-9dd9-467d-9d1d-05f314926d6b.png">
-<img width="805" alt="Screenshot 2023-05-08 at 3 21 15 PM" src="https://user-images.githubusercontent.com/71516398/236794620-9a9e0615-b22f-4d2e-b331-7c557bec220e.png">
-<img width="805" alt="Screenshot 2023-05-08 at 3 21 23 PM" src="https://user-images.githubusercontent.com/71516398/236794624-6fe6eb34-09db-4634-8ab3-e59f11fb750c.png">
-<img width="805" alt="Screenshot 2023-05-08 at 3 21 30 PM" src="https://user-images.githubusercontent.com/71516398/236794626-673fbd0c-8240-4bcb-aeb0-66e46c34ade5.png">
+2.Salary data
+<img width="1012" alt="Screenshot 2023-05-17 at 2 14 27 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/8893e4e2-94c2-4b29-b649-e06b51d5cfb5">
 
+3.Checking the null() function
+
+
+<img width="413" alt="Screenshot 2023-05-17 at 2 14 34 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/a243870c-bdb8-494a-9847-7fa2d1ac75c6">
+
+4. Data Duplicate
+
+<img width="816" alt="Screenshot 2023-05-17 at 2 14 42 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/06a3754b-e4b2-46e0-9542-46c783976db0">
+
+
+<img width="588" alt="Screenshot 2023-05-17 at 2 14 47 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/7e9bdf54-bebd-4193-b4f5-26e9c6f6894b">
+
+5. Print data
+
+<img width="790" alt="Screenshot 2023-05-17 at 2 14 54 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/f1545105-0c46-4f70-9263-00ad91c5f627">
+
+6. Data-status
+
+
+<img width="431" alt="Screenshot 2023-05-17 at 2 15 01 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/3ebfb6cb-a04a-4f1a-8265-ea8f8325b100">
+
+
+8. y_prediction array
+
+<img width="682" alt="Screenshot 2023-05-17 at 2 15 09 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/834b6d00-6fdb-43de-9acd-4394d9f2bfcc">
+
+
+
+8.Accuracy value
+
+<img width="419" alt="Screenshot 2023-05-17 at 2 15 17 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/26e3e039-f623-43c1-b444-d133f2c31b76">
+
+
+
+9. Confusion array
+
+
+
+<img width="232" alt="Screenshot 2023-05-17 at 2 15 22 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/1cb1e74e-3c01-4f5c-a060-cb6d27bccbda">
+
+10. Classification report
+
+
+<img width="529" alt="Screenshot 2023-05-17 at 2 15 36 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/96676466-6396-4bbb-add7-6b8d83a81bb5">
+
+11.Prediction of LR
+
+
+<img width="217" alt="Screenshot 2023-05-17 at 2 15 47 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/66fb3ffd-bbb9-4265-b5ea-da309c9a6e77">
+
+
+<img width="217" alt="Screenshot 2023-05-17 at 2 15 50 PM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/42f52ddf-1aed-43d0-8ee9-af4ecf3c0810">
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
